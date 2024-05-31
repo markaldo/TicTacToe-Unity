@@ -17,7 +17,7 @@ Installation
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/your-username/tic-tac-toe-unity.git
+git clone https://github.com/markaldo/TicTacToe-Unity.git
 Open in Unity:
 Open Unity Hub and click on "Add".
 Select the cloned repository folder to add the project to Unity Hub.
